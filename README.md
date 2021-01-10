@@ -7,6 +7,8 @@
 2. [kettle生成节假日数据原来还可以这样操作？(数仓面试题、数仓项目)](https://mp.weixin.qq.com/s?__biz=MzA3MjQ1MTQzMQ==&mid=2247487190&idx=1&sn=6afdb1e98e5eae583898af61b18bf931&chksm=9f1f5adea868d3c81483106af308cc4ffd574c4f33a61dfb368312003a6790d2ff8cb6c3d22e&token=1524063186&lang=zh_CN#rd)
 3. [数仓模型设计详细讲解(数仓面试题、数仓项目)](https://mp.weixin.qq.com/s?__biz=MzA3MjQ1MTQzMQ==&mid=2247487538&idx=1&sn=c06b6ce73f25593eb25f516b4cb9db82&chksm=9f1f443aa868cd2c3b014cdb40ebda1e4bd67054ebb15b647b7a862e93a37ad2256520f02328&token=1524063186&lang=zh_CN#rd)
 4. [数据仓库分层架构深度讲解(数仓面试题、数仓项目)](https://mp.weixin.qq.com/s?__biz=MzA3MjQ1MTQzMQ==&mid=2247487563&idx=1&sn=c5e72c68bdef10186f36d8531a7fea6b&chksm=9f1f4443a868cd55738d75fc850a9cc3e31ca6e162b36cb45f9de26ed1e9a79e20f233c10ae8&token=1524063186&lang=zh_CN#rd)
+5. [数仓缓慢变化维深度讲解](https://mp.weixin.qq.com/s?__biz=MzA3MjQ1MTQzMQ==&mid=2247487646&idx=1&sn=cfac74b61dd95172d02ac3254b4014af&chksm=9f1f4496a868cd800ecd883d423b0116e46c3b2a009341e2c83b0b587f83c2b8dc9953c8fd35&token=754054769&lang=zh_CN#rd)
+6. [深入讲解拉链表，还怕面试官问？](https://mp.weixin.qq.com/s?__biz=MzA3MjQ1MTQzMQ==&mid=2247487688&idx=1&sn=c7afa24770ae54528fd433546076f808&chksm=9f1f44c0a868cdd67d88e7c7305bcfb896ba7aa295c594cd526db44deca4d1804082683071c5&token=754054769&lang=zh_CN#rd) 
 ### 二、Flink
 1. [十分钟入门Fink SQL](https://mp.weixin.qq.com/s?__biz=MzA3MjQ1MTQzMQ==&mid=2247486726&idx=1&sn=f7320bf30a52c737ba22d781dc5b483e&chksm=9f1f590ea868d018703b577f96e24db78413d838723285b41e07ac581ea69e0504d132251477&token=1524063186&lang=zh_CN#rd)
 2. [Flink SQL——Table与DataStream之间的互转(超详细)](https://mp.weixin.qq.com/s?__biz=MzA3MjQ1MTQzMQ==&mid=2247486862&idx=1&sn=0bcc6da90bd74a48d783ff11b87c6e97&chksm=9f1f5986a868d090c6694b4e9df0fc882eb11e9ffe533d49ed6a2126919a564799fdf6c09f9a&token=1524063186&lang=zh_CN#rd)
@@ -16,7 +18,7 @@
 6. [一文章带你深入理解FlinkSQL中的窗口(三种模式)](https://mp.weixin.qq.com/s?__biz=MzA3MjQ1MTQzMQ==&mid=2247487436&idx=1&sn=98e6f8081ee7fba9c74277c06bc19112&chksm=9f1f5bc4a868d2d29110ab5d398416bde510e2835733aef25924eb44a6b1349476d0a03742a8&token=1524063186&lang=zh_CN#rd)
 7. [Flink系统自带函数与自定义UDF(超详细)](https://mp.weixin.qq.com/s?__biz=MzA3MjQ1MTQzMQ==&mid=2247487501&idx=1&sn=43db346ef4e4f0c021f923ef62d851c1&chksm=9f1f4405a868cd13b24dd0a5f9bbcae3a6a647a1d61cf07c953170ffdc9ca97be92a62b62ab1&token=1524063186&lang=zh_CN#rd)
 8. [那些被问懵的Flink面试题(Flink面试急需)](https://mp.weixin.qq.com/s?__biz=MzA3MjQ1MTQzMQ==&mid=2247487518&idx=1&sn=75853b3620e4de74df91694c441670ff&chksm=9f1f4416a868cd00f44d39fa23752ffe7a33398157afd64fdf02ff00620bc0674dcd0cfcdc7c&token=1524063186&lang=zh_CN#rd)
-
+9. [Flink 自定义Avro序列化(Source/Sink)到kafka中](https://mp.weixin.qq.com/s?__biz=MzA3MjQ1MTQzMQ==&mid=2247487893&idx=1&sn=01a04af2c007b6fd32ad09eb286da907&chksm=9f1f459da868cc8b6a0daabb213b93d4c560fa3631dd9aa153760b85be9ae2256a4a8f0c14e3&token=754054769&lang=zh_CN#rd)
 
 ### 三、Spark
 
@@ -26,3 +28,6 @@
 ### 四、kettle
 
 1. [kettle生成节假日数据原来还可以这样操作？](https://mp.weixin.qq.com/s?__biz=MzA3MjQ1MTQzMQ==&mid=2247487190&idx=1&sn=6afdb1e98e5eae583898af61b18bf931&chksm=9f1f5adea868d3c81483106af308cc4ffd574c4f33a61dfb368312003a6790d2ff8cb6c3d22e&token=1524063186&lang=zh_CN#rd)
+
+### 五、Hive
+1. [一文教你学会Hive视图和索引](https://mp.weixin.qq.com/s?__biz=MzA3MjQ1MTQzMQ==&mid=2247487767&idx=1&sn=18be996ccba71ae0ad102c657453cd64&chksm=9f1f451fa868cc09e48b7bbce87d3e77fe9c5cafc62d94f0b635918ece974d567b26430684c6&token=754054769&lang=zh_CN#rd)
