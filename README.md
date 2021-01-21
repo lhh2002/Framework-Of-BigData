@@ -1,6 +1,34 @@
 # Framework-Of-BigData
 大数据面试题，从0到1走向架构师之路。Flink、Spark、Hive、HBase、Hadoop、Kettle、Kafka...
 每周日更新
+
+<p align="center">
+    <a href="#微信" style="text-decoration:none;">
+        <img src="https://img.shields.io/badge/WeChat-%E5%85%AC%E4%BC%97%E5%8F%B7-green" alt="公众号" />
+    </a>
+    <a href="https://www.toutiao.com/c/user/token/MS4wLjABAAAA1ddQa0qBdony54kzsuJEh4SofJyzbv-u_uIXh4EMf4EIlPILAOy4YrRpoeGXYMkJ/" target="_blank" style="text-decoration:none;">
+        <img src="https://img.shields.io/badge/toutiao-%E5%A4%B4%E6%9D%A1-red" alt="头条" />
+    </a>
+    <a href="https://www.zhihu.com/people/ting-feng-92-52-29" target="_blank" style="text-decoration:none;">
+        <img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue" alt="知乎" />
+    </a>
+    <a href="https://my.oschina.net/u/4917371" target="_blank" style="text-decoration:none;">
+        <img src="https://img.shields.io/badge/oschina-%E5%BC%80%E6%BA%90%E4%B8%AD%E5%9B%BD-green" alt="开源中国" />
+    </a>
+    <a href="https://juejin.cn/user/369051370796478" target="_blank" style="text-decoration:none;">
+        <img src="https://img.shields.io/badge/juejin-%E6%8E%98%E9%87%91-blue" alt="掘金" />
+    </a>
+    <a href="https://blog.csdn.net/qq_43791724?spm=1000.2115.3001.5343" target="_blank" style="text-decoration:none;">
+        <img src="https://img.shields.io/badge/csdn-CSDN-red" alt="CSDN" />
+    </a>
+    <a href="https://blog.51cto.com/14417862" target="_blank" style="text-decoration:none;">
+        <img src="https://img.shields.io/badge/51cto-51CT0%E5%8D%9A%E5%AE%A2-orange" alt="51CT0博客" />
+    </a>
+        <a href="https://www.infoq.cn/profile/098EDD008A05B1/publish" target="_blank" style="text-decoration:none;">
+        <img src="https://img.shields.io/badge/infoq-INFOQ-Chartreuse" alt="INFOQ" />
+    </a>
+</p>
+
 ## 优秀文章目录
 ### 一、大数据项目
 1. [如何在面试中介绍自己的项目经验(经验分享)](https://mp.weixin.qq.com/s?__biz=MzA3MjQ1MTQzMQ==&mid=2247485734&idx=1&sn=c117995c9a2ad924233c22a2264903a1&chksm=9f1f5d2ea868d4389735d86adeaa70052bb964b3a8bf11be06267d24c6dbdc17f9b975f993e4&token=1524063186&lang=zh_CN#rd)
@@ -31,3 +59,12 @@
 
 ### 五、Hive
 1. [一文教你学会Hive视图和索引](https://mp.weixin.qq.com/s?__biz=MzA3MjQ1MTQzMQ==&mid=2247487767&idx=1&sn=18be996ccba71ae0ad102c657453cd64&chksm=9f1f451fa868cc09e48b7bbce87d3e77fe9c5cafc62d94f0b635918ece974d567b26430684c6&token=754054769&lang=zh_CN#rd)
+
+## 联系号主
+
+<p>
+    <a name="微信"></a>
+</p>
+
+![](https://img-blog.csdnimg.cn/20210121141636866.png?)
+![](https://img-blog.csdnimg.cn/20210121141718609.png?)
