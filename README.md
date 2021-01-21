@@ -65,6 +65,7 @@
 <p>
     <a name="微信"></a>
 </p>
-
-![](https://img-blog.csdnimg.cn/20210121141636866.png?)
-![](https://img-blog.csdnimg.cn/20210121141718609.png?)
+<p align="center">
+    <img src="https://img-blog.csdnimg.cn/20210121141636866.png?"/>
+   <img src="https://img-blog.csdnimg.cn/20210121141718609.png?"/>
+</p>
